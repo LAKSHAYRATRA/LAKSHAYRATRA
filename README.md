@@ -34,7 +34,7 @@ Hi! I'm a passionate Computer Engineering student from Thapar Institute of Engin
 <tr>
 <td width="50%" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=LAKSHAYRATRA&theme=nightowl&show_icons=true&count_private=true" />
-    
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=LAKSHAYRATRA&theme=nightowl&hide_border=false" alt="GitHub Streak"/>
 </td>
 <td width="50%" align="center">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LAKSHAYRATRA&theme=nightowl&hide_border=false&langs_count=10"/>
